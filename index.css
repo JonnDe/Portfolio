@@ -3,6 +3,44 @@
     padding: 0;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-div{
-    background-size: 100px;
+
+body{
+    background: linear-gradient(to right, #1cb5e0, #000046 );
+}
+
+.banner{
+    padding: 200px;
+    border: 500px;
+    margin: auto;
+    background-position: center;
+    background-image: url(Banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+div.superior{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(26, 25, 25);
+    }
+
+.logoArg{
+    width: 50px;
+    height: 50px;
+    border-radius: 10%;
+    margin: left;
+    background-image: url(LogoArg2.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 55px 100%;
+    border-radius: %;
+    float:left solid;
+}
+.facebook{
+    width: 100px;
+    height: 100px;
+    background-image: url(imagenes/facebook.jpg);
+    background-position:
+    float: right;
 }
